@@ -1,5 +1,5 @@
-# 👋 Welcome to xhook!
+# 👋 Welcome to py.lol!
 
-We are **xhook**, a Discord server dedicated to stopping Discord-related stealers and grabbers.
+We are **py.lol**, a Discord server dedicated to stopping Discord-related stealers and grabbers.
 
-- 📫 You can reach us through our Discord server. [https://discord.gg/bFE63P2qsB]
+- 📫 You can reach us through our Discord server. [https://discord.gg/Acy4xvsNAP]
