@@ -1,7 +1,7 @@
 <p align="center">We are a Discord server dedicated to stopping Discord related stealers and grabbers.</p>
 
 <div style="display: flex; align-items: center; justify-content: flex-start;">
-  <img src="https://komarev.com/ghpvc/?username=py-lol&label=Profile%20views&color=0e75b6&style=flat-square" alt="py-lol" height="30" width="120" />
+  <img alt="github views" title="Profile views" src="https://komarev.com/ghpvc/?username=py-lol&style=for-the-badge&labelColor=#ffa1eb" />
 </div>
 
 <a href="https://discord.gg/exposing" target="_blank" style="display: inline-block; margin-top: 10px;">
